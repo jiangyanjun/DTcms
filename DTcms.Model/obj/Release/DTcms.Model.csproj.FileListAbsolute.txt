@@ -1,0 +1,14 @@
+E:\工作室\新项目\Code\DTcms_40\DTcms.Model\bin\Release\DTcms.Model.dll
+E:\工作室\新项目\Code\DTcms_40\DTcms.Model\bin\Release\DTcms.Model.pdb
+E:\工作室\新项目\Code\DTcms_40\DTcms.Model\bin\Release\DTcms.Common.dll
+E:\工作室\新项目\Code\DTcms_40\DTcms.Model\bin\Release\DTcms.Common.pdb
+E:\工作室\新项目\Code\DTcms_40\DTcms.Model\obj\Release\DTcms.Model.csprojResolveAssemblyReference.cache
+E:\工作室\新项目\Code\DTcms_40\DTcms.Model\obj\Release\DTcms.Model.dll
+E:\工作室\新项目\Code\DTcms_40\DTcms.Model\obj\Release\DTcms.Model.pdb
+E:\工作室\新项目\Code\mmmxa\DTcms.Model\bin\Release\DTcms.Model.dll
+E:\工作室\新项目\Code\mmmxa\DTcms.Model\bin\Release\DTcms.Model.pdb
+E:\工作室\新项目\Code\mmmxa\DTcms.Model\bin\Release\DTcms.Common.dll
+E:\工作室\新项目\Code\mmmxa\DTcms.Model\bin\Release\DTcms.Common.pdb
+E:\工作室\新项目\Code\mmmxa\DTcms.Model\obj\Release\DTcms.Model.csprojResolveAssemblyReference.cache
+E:\工作室\新项目\Code\mmmxa\DTcms.Model\obj\Release\DTcms.Model.dll
+E:\工作室\新项目\Code\mmmxa\DTcms.Model\obj\Release\DTcms.Model.pdb

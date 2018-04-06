@@ -1,0 +1,14 @@
+E:\工作室\新项目\Code\DTcms_40\DTcms.DBUtility\bin\Release\DTcms.DBUtility.dll
+E:\工作室\新项目\Code\DTcms_40\DTcms.DBUtility\bin\Release\DTcms.DBUtility.pdb
+E:\工作室\新项目\Code\DTcms_40\DTcms.DBUtility\bin\Release\DTcms.Common.dll
+E:\工作室\新项目\Code\DTcms_40\DTcms.DBUtility\bin\Release\DTcms.Common.pdb
+E:\工作室\新项目\Code\DTcms_40\DTcms.DBUtility\obj\Release\DTcms.DBUtility.csprojResolveAssemblyReference.cache
+E:\工作室\新项目\Code\DTcms_40\DTcms.DBUtility\obj\Release\DTcms.DBUtility.dll
+E:\工作室\新项目\Code\DTcms_40\DTcms.DBUtility\obj\Release\DTcms.DBUtility.pdb
+E:\工作室\新项目\Code\mmmxa\DTcms.DBUtility\bin\Release\DTcms.DBUtility.dll
+E:\工作室\新项目\Code\mmmxa\DTcms.DBUtility\bin\Release\DTcms.DBUtility.pdb
+E:\工作室\新项目\Code\mmmxa\DTcms.DBUtility\bin\Release\DTcms.Common.dll
+E:\工作室\新项目\Code\mmmxa\DTcms.DBUtility\bin\Release\DTcms.Common.pdb
+E:\工作室\新项目\Code\mmmxa\DTcms.DBUtility\obj\Release\DTcms.DBUtility.csprojResolveAssemblyReference.cache
+E:\工作室\新项目\Code\mmmxa\DTcms.DBUtility\obj\Release\DTcms.DBUtility.dll
+E:\工作室\新项目\Code\mmmxa\DTcms.DBUtility\obj\Release\DTcms.DBUtility.pdb
